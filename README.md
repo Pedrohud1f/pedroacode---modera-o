@@ -1,1 +1,1 @@
-# pedroacode---modera-o
+Sistema de moderação via discord, o sistema é um projeto meu, para ajudar na moderação do servidor de Discord utilizando as funções do discord.js v14.11, algumas API's utilizadas podem ter sido atulizadas.
